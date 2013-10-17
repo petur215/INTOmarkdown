@@ -1,7 +1,7 @@
 #Open Source
 
 Pétur Elvar Sigurðsson
-
+Pétur Bergmann Halldórsson
 ## 1. Linux uppsetning
 
 Gekk ekki neitt þrátt fyrir hjálp frá Gunna og Gabríeli, virtual box sagði að við værum ekki með 64 bita örgörva þó við værum með hann
