@@ -2,6 +2,8 @@
 
 Pétur Elvar Sigurðsson
 Pétur Bergmann Halldórsson
+Vignir Karl Gylfason
+
 ## 1. Linux uppsetning
 
 Gekk ekki neitt þrátt fyrir hjálp frá Gunna og Gabríeli, virtual box sagði að við værum ekki með 64 bita örgörva þó við værum með hann
@@ -13,7 +15,7 @@ Gekk vel bara
 ## 3. Unnið með Git (1. hluti)
 Pínu ströggl en gekk á endanum
 
-<https://github.com/petur215/INTOmarkdown>
+<https://github.com/petur215/INTOPrufa>
 
 ## 4. Uppsettur hugbúnaður
 
@@ -27,4 +29,4 @@ Open Office <http://www.openoffice.is/wiki/index.php5/Fors%C3%AD%C3%B0a>
 
 ## 5. Unnið með Git (2. hluti)
 
-þetta er var ágætt
+Eftir margar tilraunir, svita og blóð, þá tókst þetta á endanum. Húrra!
